@@ -4,11 +4,9 @@
 ゆくゆくはSSR、SEOに強いアプリケーション開発を目論んでたので、その布石。  
 JSを採用する選択肢もあったが、昨今の堅牢アプリの流れに乗りたい（PHPで、厳密な型チェックの重要さを知ったタイミング)でTSにも慣れたかった。
 
-[ポートフォリオの様子はこちらに常時公開・デプロイしている](https://travel-website-portfolio.vercel.app/)
 ## 👉実際のポートフォリオのリンク
-常時公開・デプロイ。
-https://travel-website-portfolio.vercel.app
-
+https://travel-website-portfolio.vercel.app  
+常時公開&デプロイ。
 ## 🧑‍💻デプロイ先
 Next.jsと親和性の高いVercel。このリポジトリのMainブランチを連携しているので、プッシュされると自動デプロイが走って公開されるようになっています。
 
