@@ -1,0 +1,26 @@
+{
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "HTML",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.experimental.classRegex": [],
+  "tailwindCSS.emmetCompletions": true,
+  "css.validate": false,
+  "editor.inlineSuggest.enabled": true,
+  "tailwindCSS.suggestions": true,
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    ".*Styles.*",
+    ".*Style.*" // Add ".*Styles.*" (or whatever matches your naming scheme)
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+}
